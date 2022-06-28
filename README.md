@@ -22,7 +22,7 @@ Save ![this](https://raw.githubusercontent.com/Strencher/BetterDiscordStuff/mast
 ### 2. Importing the Database
 
 ```css
-@import url('https://discord-custom-covers.github.io/usrbg/dist/usrbg.css');
+@import url('https://jeffreybob720.github.io/usrbg/dist/usrbg.css');
 ```
 
 This will import the USRBG database. Alone, it's simply some variables. Some of examples on how it can be utilized can be seen in the [Snippets](https://github.com/Discord-Custom-Covers/usrbg/tree/master/snippets) folder of this repo.
